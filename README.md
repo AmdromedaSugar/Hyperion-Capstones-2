@@ -1,5 +1,5 @@
 # Hyperion-Capstones-2
-Level 2 Capstones projects
+Level 2 Capstones project
 
 POISE ENGINEERING PROJECT MANAGER
 
